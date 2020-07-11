@@ -12,8 +12,6 @@ Output for testcase 2 in Output/FileName/Output2.txt
 Commands:
 (run in same order)
 
-javac PROGRAM.java
-
-javac MainClass.java
-
-java MainClass
+    javac PROGRAM.java
+    javac MainClass.java
+    java MainClass
